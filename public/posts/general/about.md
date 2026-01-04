@@ -1,7 +1,7 @@
 ---
 title: À propos de N7sight
 excerpt: La vision derrière la plateforme : reconnecter théorie et intuition.
-date: 2024-05-20
+date: 2026-01-04
 author: Haytham
 readTime: 3 min
 tags: [Vision, Pédagogie, ENSEEIHT]
