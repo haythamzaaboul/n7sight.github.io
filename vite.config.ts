@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: Replace 'N7sight' with your repository name if it is different
-  base: '/N7sight/', 
+  base: '/N7sight.github.io/', 
   build: {
     outDir: 'dist',
   }
