@@ -9,8 +9,9 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    // GitHub Pages for a user/org site is served from the domain root, so keep assets rooted at "/".
-    base: '/', 
+    // This repo is deployed as a project page at /n7sight.github.io/,
+    // so Vite should prefix built asset URLs with that subpath.
+    base: '/n7sight.github.io/', 
     build: {
       outDir: 'dist',
     },
