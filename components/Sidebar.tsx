@@ -77,7 +77,7 @@ const Sidebar: React.FC<{ onClose?: () => void }> = ({ onClose }) => {
             </a>
         </div>
         <p className="text-[10px] text-center text-slate-400 mt-6 opacity-60">
-            © 2024 N7sight
+            © 2026 N7sight
         </p>
       </div>
     </div>
