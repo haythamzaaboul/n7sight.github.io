@@ -9,7 +9,8 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    base: '/N7sight.github.io/', 
+    // Use relative base path to ensure assets load correctly on GitHub Pages regardless of repo name or case
+    base: './', 
     build: {
       outDir: 'dist',
     },
