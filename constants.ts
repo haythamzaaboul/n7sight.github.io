@@ -14,9 +14,6 @@
 
 export const ARTICLE_PATHS = [
   '/posts/general/about.md',
-  '/posts/traitement-du-signal/fourier.md',
-  '/posts/meca-flu/navier-stokes.md',
-  '/posts/informatique/clean-code.md',
 ];
 
 // Optional: Use this to override specific folder names if the auto-formatter isn't enough.
