@@ -9,8 +9,8 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    // Use relative base path to ensure assets load correctly on GitHub Pages regardless of repo name or case
-    base: './', 
+    // GitHub Pages for a user/org site is served from the domain root, so keep assets rooted at "/".
+    base: '/', 
     build: {
       outDir: 'dist',
     },
