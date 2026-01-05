@@ -69,10 +69,10 @@ const Sidebar: React.FC<{ onClose?: () => void }> = ({ onClose }) => {
             >
                 {theme === 'light' ? <Moon className="w-5 h-5" /> : <Sun className="w-5 h-5" />}
             </button>
-            <a href="#" className="text-slate-400 hover:text-n7-600 dark:hover:text-n7-400 transition-colors">
+            <a href="https://github.com/haythamzaaboul" className="text-slate-400 hover:text-n7-600 dark:hover:text-n7-400 transition-colors">
                 <Github className="w-5 h-5" />
             </a>
-            <a href="#" className="text-slate-400 hover:text-n7-600 dark:hover:text-n7-400 transition-colors">
+            <a href="https://www.linkedin.com/in/haythamzaaboul/" className="text-slate-400 hover:text-n7-600 dark:hover:text-n7-400 transition-colors">
                 <Linkedin className="w-5 h-5" />
             </a>
         </div>
