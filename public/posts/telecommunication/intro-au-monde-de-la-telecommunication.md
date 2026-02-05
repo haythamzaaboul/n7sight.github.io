@@ -27,7 +27,7 @@ Cette série d'articles explorera l'architecture complexe qui permet le transfer
 
 Derrière chaque message envoyé se cache un parcours complexe. Tout message envoyé subit une série de transformations soigneusement orchestrées (la compression, la protection contre les erreurs…). C'est ce qu'on appelle la chaîne de transmission.
 
-![Figure 1 : visualisation des différentes étapes de la chaîne de transmission](/posts/t%C3%A9l%C3%A9communication/Chaine-de-transmission.png)
+![Figure 1 : visualisation des différentes étapes de la chaîne de transmission](/posts/telecommunication/Chaine-de-transmission.png)
 *Figure 1 : visualisation des différentes étapes de la chaîne de transmission*
 
 Cette chaîne peut se diviser en trois grandes parties : l'émetteur, qui prépare l'information pour le voyage ; le canal, qui la transporte tout en lui faisant subir diverses perturbations ; et le récepteur, qui reconstitue le message original à partir du signal dégradé.
