@@ -133,3 +133,4 @@ Cette démarche vise à garantir une approche à la fois **rigoureuse**, **péda
 Ce travail s'inscrit dans une volonté claire : construire une compréhension progressive, cohérente et accessible des télécommunications modernes, du concept à l'implémentation.
 
 *Écrit par Haytham ZAABOUL*
+*Lu et approuvé par Mme Mailhes Corinne*
