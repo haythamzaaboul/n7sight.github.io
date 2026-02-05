@@ -14,6 +14,7 @@
 
 export const ARTICLE_PATHS = [
   '/posts/general/about.md',
+  '/posts/télécommunication/intro-au-monde-de-la-telecommunication.md',
 ];
 
 // Optional: Use this to override specific folder names if the auto-formatter isn't enough.
@@ -25,4 +26,5 @@ export const DIRECTORY_MAPPING: Record<string, string> = {
   'electronique': 'Électronique',
   'sciences-humaines': 'Sciences Humaines',
   'general': 'Général',
+  'télécommunication': 'Télécommunication',
 };
