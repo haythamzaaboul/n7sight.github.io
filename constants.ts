@@ -15,6 +15,7 @@
 export const ARTICLE_PATHS = [
   '/posts/general/about.md',
   '/posts/telecommunication/intro-au-monde-de-la-telecommunication.md',
+  '/posts/writeups/htb-cap.md',
 ];
 
 // Optional: Use this to override specific folder names if the auto-formatter isn't enough.
@@ -27,4 +28,5 @@ export const DIRECTORY_MAPPING: Record<string, string> = {
   'sciences-humaines': 'Sciences Humaines',
   'general': 'Général',
   'telecommunication': 'Télécommunication',
+  'writeups': 'Writeups',
 };
