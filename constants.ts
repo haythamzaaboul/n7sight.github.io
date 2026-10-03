@@ -16,6 +16,7 @@ export const ARTICLE_PATHS = [
   '/posts/general/about.md',
   '/posts/telecommunication/intro-au-monde-de-la-telecommunication.md',
   '/posts/writeups/htb-cap.md',
+  '/posts/writeups/htb-connected.md',
 ];
 
 // Optional: Use this to override specific folder names if the auto-formatter isn't enough.
